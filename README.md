@@ -1,3 +1,7 @@
+# Know more about the TanStackQuery (React Query) - Here's the article on the Same 
+
+
+https://medium.com/@palakkotwani2883/beginners-guide-to-tanstack-query-react-query-e200baacaacf
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
